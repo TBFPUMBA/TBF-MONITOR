@@ -9,7 +9,7 @@ Minimal, powerful server monitor. Track CPU, RAM, disk, network, visitors, and l
 ## ⚡ Installation
 
 ```bash
-git clone https://github.com/TBF-of/TBF-MONITOR.git
+git clone https://github.com/TBFPUMBA/TBF-MONITOR.git
 cd TBF-MONITOR
 pip install -r requirements.txt
 python3 tbf_monitor.py
