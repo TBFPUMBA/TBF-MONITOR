@@ -30,8 +30,7 @@ pip install rich
 1. Run: python3 tbf_monitor.py
 2. Configure IP and port
 3. Start server
-4. Open http://127.0.0.1:8080
-5. Monitor system stats
+4. Monitor system stats
 
 ---
 
